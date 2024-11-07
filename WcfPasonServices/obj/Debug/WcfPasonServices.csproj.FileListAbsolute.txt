@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\WcfPasonServices\WcfPasonServices\bin\WcfPasonServices.dll.config
+C:\Users\USUARIO\source\repos\WcfPasonServices\WcfPasonServices\bin\WcfPasonServices.dll
+C:\Users\USUARIO\source\repos\WcfPasonServices\WcfPasonServices\bin\WcfPasonServices.pdb
+C:\Users\USUARIO\source\repos\WcfPasonServices\WcfPasonServices\obj\Debug\WcfPasonServices.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\WcfPasonServices\WcfPasonServices\obj\Debug\WcfPasonServices.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\WcfPasonServices\WcfPasonServices\obj\Debug\WcfPasonServices.dll
+C:\Users\USUARIO\source\repos\WcfPasonServices\WcfPasonServices\obj\Debug\WcfPasonServices.pdb
