@@ -14,12 +14,8 @@ namespace WcfPasonServices
     {
 
         [OperationContract]
-        string GetData(int value);
-
-        [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
-
-        // TODO: agregue aquí sus operaciones de servicio
+        [WebInvoke(Method = "POST", UriTemplate = "/witsml")]
+        string ProcessRequest(string soapMessage);
     }
 
 
