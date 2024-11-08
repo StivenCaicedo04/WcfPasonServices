@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|c:\\users\\usuario\\source\\repos\\wcfpasonservices\\wcfpasonservices\\iwitsmlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|c:\\users\\usuario\\source\\repos\\wcfpasonservices\\wcfpasonservices\\witsmlservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\witsmlservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|c:\\users\\usuario\\source\\repos\\wcfpasonservices\\wcfpasonservices\\services\\getcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\services\\getcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|c:\\users\\usuario\\source\\repos\\wcfpasonservices\\wcfpasonservices\\services\\getversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\services\\getversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|c:\\users\\usuario\\source\\repos\\wcfpasonservices\\wcfpasonservices\\services\\getfromstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\services\\getfromstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\wcfpasonservices\\iwitsmlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\iwitsmlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\wcfpasonservices\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|c:\\users\\usuario\\source\\repos\\wcfpasonservices\\wcfpasonservices\\witsmlservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
-      "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\witsmlservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|c:\\users\\usuario\\source\\repos\\wcfpasonservices\\wcfpasonservices\\witsmlservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD4283DB-275B-4794-B339-ED958BBC2A32}|WcfPasonServices\\WcfPasonServices.csproj|solutionrelative:wcfpasonservices\\witsmlservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WitsmlService.svc",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\WitsmlService.svc",
-              "RelativeDocumentMoniker": "WcfPasonServices\\WitsmlService.svc",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\WitsmlService.svc",
-              "RelativeToolTip": "WcfPasonServices\\WitsmlService.svc",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
-              "WhenOpened": "2024-11-07T12:36:04.715Z",
+              "DocumentIndex": 3,
+              "Title": "GetFromStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\Services\\GetFromStoreService.cs",
+              "RelativeDocumentMoniker": "WcfPasonServices\\Services\\GetFromStoreService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\Services\\GetFromStoreService.cs",
+              "RelativeToolTip": "WcfPasonServices\\Services\\GetFromStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:51:17.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GetCapService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\Services\\GetCapService.cs",
+              "RelativeDocumentMoniker": "WcfPasonServices\\Services\\GetCapService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\Services\\GetCapService.cs",
+              "RelativeToolTip": "WcfPasonServices\\Services\\GetCapService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:50:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetVersionService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\Services\\GetVersionService.cs",
+              "RelativeDocumentMoniker": "WcfPasonServices\\Services\\GetVersionService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\Services\\GetVersionService.cs",
+              "RelativeToolTip": "WcfPasonServices\\Services\\GetVersionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:50:17.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\Web.config",
               "RelativeDocumentMoniker": "WcfPasonServices\\Web.config",
@@ -56,26 +90,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "IWitsmlService.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\IWitsmlService.cs",
               "RelativeDocumentMoniker": "WcfPasonServices\\IWitsmlService.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\IWitsmlService.cs",
               "RelativeToolTip": "WcfPasonServices\\IWitsmlService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T14:28:25.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "WitsmlService.svc.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\WitsmlService.svc.cs",
               "RelativeDocumentMoniker": "WcfPasonServices\\WitsmlService.svc.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\WcfPasonServices\\WcfPasonServices\\WitsmlService.svc.cs",
               "RelativeToolTip": "WcfPasonServices\\WitsmlService.svc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwD0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T14:25:07.941Z",
               "EditorCaption": ""

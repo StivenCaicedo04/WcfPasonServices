@@ -65,6 +65,9 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Services\GetCapService.cs" />
+    <Compile Include="Services\GetFromStoreService.cs" />
+    <Compile Include="Services\GetVersionService.cs" />
     <Compile Include="WitsmlService.svc.cs">
       <DependentUpon>WitsmlService.svc</DependentUpon>
     </Compile>
@@ -73,6 +76,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Data\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">

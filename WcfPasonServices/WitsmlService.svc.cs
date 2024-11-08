@@ -6,6 +6,7 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
+using WcfPasonServices.Services;
 
 namespace WcfPasonServices
 {
@@ -15,19 +16,13 @@ namespace WcfPasonServices
     {
         public string ProcessRequest(string soapMessage)
         {
-            // Guardar mensaje SOAP
+            GetCapService consult = new GetCapService();
+
             File.AppendAllText("data_storage.txt", soapMessage + "\n");
 
-            // Responder en función del mensaje SOAP
             if (soapMessage.Contains("WMLS_GetVersion"))
             {
-                return @"<soapenv:Envelope xmlns:soapenv=""http://schemas.xmlsoap.org/soap/envelope/"">
-                            <soapenv:Body>
-                                <WMLS_GetVersionResponse>
-                                    <Result>1.4.1.1</Result>
-                                </WMLS_GetVersionResponse>
-                            </soapenv:Body>
-                        </soapenv:Envelope>";
+                string response = consult.CapService(soapMessage);
             }
             else if (soapMessage.Contains("WMLS_GetCap"))
             {
